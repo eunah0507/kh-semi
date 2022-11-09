@@ -1,1 +1,1 @@
-# kh-semi
+# kh-semi-project
